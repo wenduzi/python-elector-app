@@ -1,0 +1,2 @@
+--no-index --find-links=file:///opt/app-root/src/simple/gunicorn
+gunicorn
